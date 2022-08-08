@@ -1,0 +1,6 @@
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\modelo\bin\Debug\modelo.dll
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\modelo\bin\Debug\modelo.pdb
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\modelo\obj\Debug\modelo.csproj.AssemblyReference.cache
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\modelo\obj\Debug\modelo.dll
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\modelo\obj\Debug\modelo.pdb

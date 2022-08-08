@@ -1,0 +1,9 @@
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\bin\Debug\negocio.dll
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\bin\Debug\negocio.pdb
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\bin\Debug\modelo.dll
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\bin\Debug\modelo.pdb
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\obj\Debug\negocio.dll
+C:\Users\acpc\Downloads\nivel2-julio-proyecto-final-main\negocio\obj\Debug\negocio.pdb
